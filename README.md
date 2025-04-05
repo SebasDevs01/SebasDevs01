@@ -17,7 +17,17 @@
 ## 🧠 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,mongodb,postgresql,git,html,css,react,vscode,linux&perline=8" />
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
 </p>
 
 ---
@@ -29,14 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight" width="48%"/>
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=10"/>
-</p>
-
----
-
-## 🖥️ Dev Setup (Estilo Futurista)
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="70%" alt="dev-setup"/>
 </p>
 
 ---
@@ -53,8 +55,4 @@
 
 > 🧩 _"Siempre aprendiendo, siempre construyendo."_
 
-
----
-
-> 🧩 _"Siempre aprendiendo, siempre construyendo."_
 
