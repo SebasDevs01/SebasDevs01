@@ -25,8 +25,8 @@
 ---
 
 ### 📫 ¡Conectemos!
-- ✉️ sebastian.tucorreo@ejemplo.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- ✉️ sebasdevs01@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sebasdevs)
 - 📌 GitHub: [SebasDevs01](https://github.com/SebasDevs01)
 
 ---
