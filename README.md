@@ -17,7 +17,7 @@
 ### 🧠 Tecnologías y herramientas
 
 <p align="center">
-  <img src="" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,ts,mongodb,postgresql,git,html,css,react,vscode,idea,linux" />
 </p>
 
 ---
