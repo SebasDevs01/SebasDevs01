@@ -1,70 +1,63 @@
-<!-- Encabezado animado -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hola+soy+SebasDev;Tecn%C3%B3logo+en+Sistemas+%F0%9F%92%BB;Apasionado+por+el+Desarrollo+de+Software" alt="Typing SVG" />
-</h1>
-
-<!-- Presentación con gif -->
-<div align="center">
-<table>
-  <tr>
-    <!-- Info -->
-    <td width="60%" align="left">
-
-### 👋 ¡Hola! Soy SebasDev
-
-🎓 Estudiante de **Tecnología en Sistemas** (6° semestre)  
-💻 Apasionado por el desarrollo de software y el aprendizaje constante  
-🚀 Enfocado en mejorar mis habilidades en Java, programación orientada a objetos, estructuras de datos, redes y bases de datos relacionales.
-
----
-
-### 🛠 Tecnologías y herramientas
-
-- 👨‍💻 **Lenguajes**: Java, SQL, HTML, CSS, JavaScript
-- ⚙️ **Frameworks / Librerías**: Bootstrap, JPA, JSP
-- 🧰 **Herramientas**: NetBeans, IntelliJ IDEA, Visual Studio Code, Spring Tool Suite, Git & GitHub
-- 🌐 **Conocimientos**: POO, estructuras de datos, algoritmos, redes, bases de datos relacionales
-- 📚 **Actualmente aprendiendo**: Aplicaciones empresariales con Java y pensamiento algorítmico
-
-   </td>
-
-   <!-- Gif -->
-   <td width="40%" align="center">
-     <img src="https://raw.githubusercontent.com/SebasDevs01/SebasDevs01/main/dev-setup.gif" width="250px" alt="dev gif"/>
-   </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">👋 ¡Hola! Soy SebasDev</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+de+software;Fan+de+Java+%26+POO;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Lenguajes más usados
+## 🎓 Sobre mí
+
+- 📚 Estudiante de **Tecnología en Sistemas** (6° semestre)  
+- 💻 Apasionado por el desarrollo de software y el aprendizaje constante  
+- 🚀 Enfocado en mejorar habilidades en **Java**, **estructuras de datos**, **redes** y **bases de datos**
+
+---
+
+## 🧠 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📫 ¡Conectemos!
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:sebasdevs01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sebasdevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SebasDevs01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight" width="48%"/>
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=10"/>
 </p>
 
 ---
 
-> 🧩 _"Siempre aprendiendo, siempre construyendo."_  
+## 🖥️ Dev Setup (Estilo Futurista)
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="70%" alt="dev-setup"/>
+</p>
+
+---
+
+## 📫 ¡Conectemos!
+
+- ✉️ **sebasdevs01@gmail.com**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sebasdevs)  
+- 🧑‍💻 [GitHub: SebasDevs01](https://github.com/SebasDevs01)
+
+---
+
+> 🧩 _"Siempre aprendiendo, siempre construyendo."_
 
