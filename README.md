@@ -40,13 +40,15 @@
   </a>
 </div>
 
-<br/>
+<!--
+🛑 DESCOMENTA ESTA SECCIÓN CUANDO TENGAS REPOS CON CÓDIGO PÚBLICO 🛠️
 
 <div align="center">
   <a href="#readme">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&border_radius=10" />
   </a>
 </div>
+-->
 
 ---
 
