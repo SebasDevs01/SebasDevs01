@@ -35,10 +35,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight" width="48%"/>
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=10"/>
+  <a href="#readme"><img src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&theme=tokyonight" width="48%"/></a>
+  <a href="#readme"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight" width="48%"/></a>
+</p>
+
+<p align="center">
+  <a href="#readme"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=10"/></a>
+</p>
+
+---
+
+## 📈 Actividad reciente
+
+<p align="center">
+  <a href="#readme"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SebasDevs01&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/></a>
 </p>
 
 ---
@@ -46,9 +56,9 @@
 ## 📫 ¡Conectemos!
 
 <p align="center">
-  <a href="mailto:sebasdevs01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sebasdevs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SebasDevs01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#readme"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#readme"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#readme"><img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
