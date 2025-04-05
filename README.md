@@ -31,14 +31,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="#readme"><img src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&theme=tokyonight" width="48%" /></a>
-  <a href="#readme"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight" width="48%" /></a>
-</p>
+<div align="center">
+  <a href="#readme">
+    <img src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="48%" />
+  </a>
+  <a href="#readme">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasDevs01&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="#readme"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=10" /></a>
-</p>
+<br/>
+
+<div align="center">
+  <a href="#readme">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&border_radius=10" />
+  </a>
+</div>
 
 ---
 
@@ -55,9 +63,9 @@
 ## 📫 ¡Conectemos!
 
 <p align="center">
-  <a href="#readme"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#readme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#readme"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="50px"/></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50px"/></a>
+  <a href="#readme"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50px"/></a>
 </p>
 
 ---
