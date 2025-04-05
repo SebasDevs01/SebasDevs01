@@ -47,4 +47,3 @@
 ---
 
 > 🧩 _"Siempre aprendiendo, siempre construyendo."_
-
