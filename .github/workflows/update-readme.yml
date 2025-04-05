@@ -1,0 +1,15 @@
+name: Actualizar README con actividad reciente
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Se ejecuta cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/readme-activity@main
+        with:
+          GH_USERNAME: SebasDevs01
