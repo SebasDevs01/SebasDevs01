@@ -32,3 +32,12 @@
 ---
 
 > 🧩 _"Siempre aprendiendo, siempre construyendo."_  
+
+### 📫 ¡Conectemos!
+- ✉️ sebasdevs01@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sebasdevs)
+- 📌 GitHub: [SebasDevs01](https://github.com/SebasDevs01)
+
+---
+
+> 🧩 _"Siempre aprendiendo, siempre construyendo."_  
