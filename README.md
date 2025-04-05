@@ -14,6 +14,22 @@
 
 ---
 
+## 🌟 Proyectos Destacados
+
+- 🚀 **Portal Estudiantil Uts Plus**  
+  Sistema web para gestión de estudiantes, registro, inicio de sesión y consulta de notas.  
+  Tecnologías: HTML, CSS, JavaScript, PHP, MySQL
+
+- 💬 **Chat en Tiempo Real con Java**  
+  Aplicación de consola usando sockets para enviar y recibir mensajes entre clientes.  
+  Tecnologías: Java, POO, Networking
+
+- 🗂️ **Gestor de Contactos**  
+  App con interfaz gráfica para almacenar y editar contactos.  
+  Tecnologías: Java Swing, MySQL
+
+---
+
 ## 🧠 Tecnologías y herramientas
 
 <p align="center">
@@ -32,6 +48,15 @@
 
 ---
 
+## 💖 Mi Stack Favorito
+
+- **Java + POO** → Perfecto para construir bases sólidas en lógica y estructuras de datos.  
+- **JavaScript + React** → Para crear interfaces dinámicas e interactivas en el navegador.  
+- **PHP + MySQL** → Excelente combinación para el backend de proyectos web ligeros.  
+- **Git + GitHub** → Imprescindibles para el control de versiones y trabajo colaborativo.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -39,6 +64,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight" width="48%"/>
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&langs_count=10"/>
+</p>
+
+---
+
+## 📈 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebasDevs01&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -60,4 +93,3 @@
 ---
 
 > 🧩 _"Siempre aprendiendo, siempre construyendo."_
-
