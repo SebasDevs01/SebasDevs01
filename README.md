@@ -54,8 +54,8 @@
 
 <p align="center">
   <a href="#readme">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebasDevs01&theme=tokyonight" alt="GitHub Activity"/>
-  </a>
+  <img src=".github/profile-summary-card-output/default/0-profile-details.svg" alt="Actividad reciente de GitHub" />
+    </a>  
 </p>
 
 ---
