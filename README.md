@@ -72,6 +72,7 @@
 
 ---
 
+<!--- imagen de tito -->
 <p align="center">
   <img src=".github/asests/catmensajeterminado.gif" alt="Mensaje Terminado" width="150" style="pointer-events: none;" />
 </p>
