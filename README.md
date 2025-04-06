@@ -72,7 +72,8 @@
 
 ---
 
-> 🧩 _"Siempre aprendiendo, siempre construyendo."_
+> 🧩 _"Siempre aprendiendo, siempre construyendo."
+
 <img src=".github/asests/catmensajeterminado.gif"
      alt="Mensaje Terminado"
      style="position: fixed;
