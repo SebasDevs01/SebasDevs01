@@ -1,0 +1,18 @@
+name: Update summary cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Cada día a medianoche UTC
+  workflow_dispatch:    # También podés ejecutarlo manualmente desde la pestaña Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub summary cards
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Generate Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          USERNAME: SebasDevs01
