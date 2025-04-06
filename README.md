@@ -74,17 +74,9 @@
 
 > 🧩 _"Siempre aprendiendo, siempre construyendo."
 
-<img src=".github/asests/catmensajeterminado.gif"
-     alt="Mensaje Terminado"
-     style="position: fixed;
-            bottom: 10px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 150px;
-            z-index: 999;
-            pointer-events: none;"
-     draggable="false"
-     oncontextmenu="return false;" />
+<p align="center">
+  <img src="asets/catmensajeterminado.gif" alt="Mensaje Terminado" width="150" style="pointer-events: none;" />
+</p>
 
 
 
