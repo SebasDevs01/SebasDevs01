@@ -41,7 +41,6 @@
 </div>
 
 
-🛑 DESCOMENTA ESTA SECCIÓN CUANDO TENGAS REPOS CON CÓDIGO PÚBLICO 🛠️
 
 <div align="center">
   <a href="#readme">
