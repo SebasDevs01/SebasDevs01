@@ -73,5 +73,6 @@
 ---
 
 > 🧩 _"Siempre aprendiendo, siempre construyendo."_
+<img src="assets/cat mensaje terminado.gif alt="Mensaje Terminado" style="position: fixed; bottom: 10px; left: 10px; width: 150px; z-index: 999;" />
 
 
