@@ -67,7 +67,7 @@
 <p align="center">
   <a href="https://github.com/SebasDevs01"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="50px"/></a>
   <a href="https://mail.google.com/"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50px"/></a>
-  <a href="www.linkedin.com/in/sebasdevs"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50px"/></a>
+  <a href="https://linkedin.com/in/sebasdevs"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50px"/></a>
 </p>
 
 ---
