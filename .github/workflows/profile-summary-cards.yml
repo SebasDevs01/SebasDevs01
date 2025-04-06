@@ -12,7 +12,17 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
+
       - name: Generate Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           USERNAME: SebasDevs01
+
+      - name: Push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .github/profile-summary-card-output
+          git commit -m "Update summary cards"
+          git push
+
