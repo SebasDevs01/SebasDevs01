@@ -49,18 +49,12 @@
 </div>
 
 
-<!--## 📈 Actividad reciente
+## 📈 Actividad reciente
 
 <p align="center">
   <a href="#readme">
   <img src=".github/profile-summary-card-output/default/0-profile-details.svg" alt="Actividad reciente de GitHub" />
     </a>  
-</p>-->
-
-## 📈 Actividad reciente
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SebasDevs01/SebasDevs01/main/.github/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Actividad reciente de GitHub" />
 </p>
 
 ---
