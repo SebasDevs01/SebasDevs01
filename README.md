@@ -77,7 +77,8 @@
 
 <!--- imagen de tito -->
 <p align="center">
-  <img src=".github/asests/catmensajeterminado.gif" alt="Mensaje Terminado" width="150" style="pointer-events: none;" />
+  <img src="https://raw.githubusercontent.com/SebasDevs01/SebasDevs01/main/.github/profile-summary-card-output/default/0-profile-details.svg" alt="Actividad reciente de GitHub" />
+
 </p>
 
 ---
