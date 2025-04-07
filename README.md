@@ -60,7 +60,7 @@
 ## 📈 Actividad reciente
 
 <p align="center">
-  <img src=".github/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Actividad reciente de GitHub" />
+  <img src="https://raw.githubusercontent.com/SebasDevs01/SebasDevs01/main/.github/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Actividad reciente de GitHub" />
 </p>
 
 ---
