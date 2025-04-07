@@ -48,13 +48,14 @@
   </a>
 </div>
 
+---
 
 ## 📈 Actividad reciente
 
 <p align="center">
   <a href="#readme">
-  <img src=".github/profile-summary-card-output/default/0-profile-details.svg" alt="Actividad reciente de GitHub" />
-    </a>  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebasDevs01&theme=tokyonight" alt="GitHub Activity"/>
+  </a>
 </p>
 
 ---
@@ -69,16 +70,12 @@
 
 ---
 
-<!--- imagen de tito -->
+
 <p align="center">
   <img src=".github/asests/catmensajeterminado.gif" alt="Mensaje Terminado" width="150" style="pointer-events: none;" />
 </p>
 
----
-
 > 🧩 _"Siempre aprendiendo, siempre construyendo."
-
-
 
 
 
