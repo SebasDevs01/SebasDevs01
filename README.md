@@ -1,27 +1,22 @@
- <!-- PROFILE HEADER -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080A18,45:25204F,100:6C63FF&text=SebasDev&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=Software%20Developer%20%7C%20Always%20Building&descAlignY=60&descSize=16&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=19&duration=3000&pause=900&color=A5A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+software;Java+%7C+Flutter+%7C+Spring+Boot;Construyendo+ideas+con+c%C3%B3digo;Siempre+aprendiendo%2C+siempre+creando" alt="Presentación animada" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=SEBASDEV&fontSize=64&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20IN%20PROGRESS&descAlignY=63&descSize=15&color=0:080B18,40:171A36,75:35306C,100:827BFF" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-756BFF?style=for-the-badge&labelColor=101225" />
-<img src="https://img.shields.io/badge/BASED%20IN-Colombia-8A83FF?style=for-the-badge&labelColor=101225" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=B9B5FF&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Java+%7C+Flutter+%7C+Spring+Boot;Code.+Design.+Continuous+evolution." alt="Developer introduction" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/CREATIVE-TECHNOLOGY-171A36?style=for-the-badge&labelColor=171A36&color=756BFF" />
+<img src="https://img.shields.io/badge/BASED_IN-Colombia-171A36?style=for-the-badge&labelColor=171A36&color=8B83FF" />
 
-<!-- ABOUT -->
-<div align="center">
+<br/><br/>
 
-## ✦ Un poco sobre mí
-
-*Tecnología, creatividad y curiosidad en un mismo lugar.*
-
-Soy estudiante de sistemas y desarrollador de software. Me gusta transformar ideas en proyectos reales, explorar nuevas tecnologías y crear soluciones que sean útiles, intuitivas y visualmente atractivas.
+<a href="https://github.com/SebasDevs01">
+<img src="https://img.shields.io/badge/Explore%20my%20work-FFFFFF?style=for-the-badge&logo=github&logoColor=171A36" />
+</a>
 
 </div>
 
@@ -29,40 +24,41 @@ Soy estudiante de sistemas y desarrollador de software. Me gusta transformar ide
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" align="center">
 
-### ◈ Mi enfoque
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:756BFF,50:B8B2FF,100:756BFF" width="100%" />
 
-- Desarrollo de aplicaciones y sitios web.
-- Programación orientada a objetos.
-- Desarrollo móvil con Flutter.
-- Backend con Java y Spring Boot.
-- Aprendizaje continuo y resolución de problemas.
+<br/>
 
-</td>
-<td width="50%" valign="top">
+# ✦ About Me
 
-### ◈ Actualmente
+**Software development · Creative thinking · Continuous learning**
 
-- Mejorando mis habilidades como desarrollador.
-- Construyendo proyectos personales.
-- Explorando diseño de interfaces y experiencia de usuario.
-- Aprendiendo mediante la práctica.
+I'm a Systems student passionate about building software, exploring modern interfaces and turning ideas into practical digital experiences.
+
+I enjoy learning through personal projects, solving problems and improving the way technology meets people.
+
+<br/>
+
+<img src="https://img.shields.io/badge/01-LEARN-171A36?style=flat-square&labelColor=171A36&color=756BFF" />
+<img src="https://img.shields.io/badge/02-BUILD-171A36?style=flat-square&labelColor=171A36&color=8B83FF" />
+<img src="https://img.shields.io/badge/03-IMPROVE-171A36?style=flat-square&labelColor=171A36&color=A59EFF" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- TECH STACK -->
 <div align="center">
 
-## ✦ Tecnologías y herramientas
+## ◈ Technology Stack
 
-<p><sub>Las herramientas que forman parte de mi entorno de desarrollo</sub></p>
+<sub>Tools I use to turn ideas into software.</sub>
 
-<img src="https://skillicons.dev/icons?i=java,python,php,spring,flutter,dart,html,css,bootstrap,git,github,linux,vscode&perline=7" alt="Tecnologías" />
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,python,php,html,css,bootstrap,git,github,linux,vscode&perline=7" alt="Technology stack" />
 
 </div>
 
@@ -70,50 +66,55 @@ Soy estudiante de sistemas y desarrollador de software. Me gusta transformar ide
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-**BACKEND**
+<img src="https://img.shields.io/badge/01-171A36?style=for-the-badge&labelColor=756BFF" />
 
-<br/><br/>
+### Backend
 
-Java · Spring Boot
+Java · OOP
 
-PHP · Python básico
+Spring Boot
+
+PHP · Python basics
 
 </td>
-<td align="center" width="34%">
+<td width="34%" align="center" valign="top">
 
-**FRONTEND & MOBILE**
+<img src="https://img.shields.io/badge/02-171A36?style=for-the-badge&labelColor=8B83FF" />
 
-<br/><br/>
+### Interfaces
 
-HTML · CSS · Bootstrap
+HTML · CSS
+
+Bootstrap
 
 Flutter · Dart
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-**TOOLS**
+<img src="https://img.shields.io/badge/03-171A36?style=for-the-badge&labelColor=A59EFF" />
 
-<br/><br/>
+### Workflow
 
 Git · GitHub
 
-Linux · VS Code
+Linux
+
+VS Code
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- PROJECTS -->
 <div align="center">
 
-## ✦ Proyectos destacados
+## ✦ Selected Projects
 
-<sub>Ideas que pasan del concepto al código.</sub>
+<sub>Experiments, ideas and software built with purpose.</sub>
 
 </div>
 
@@ -121,81 +122,114 @@ Linux · VS Code
 <tr>
 <td width="50%" valign="top">
 
-### ◇ La Diabla App
+<div align="center">
 
-Aplicación personal en desarrollo, con enfoque en una experiencia de usuario moderna.
+<img src="https://img.shields.io/badge/FEATURED_PROJECT-756BFF?style=for-the-badge" />
 
-**Stack:** Flutter · Web · JavaScript
+### La Diabla App
+
+</div>
+
+A personal application project focused on creating an engaging digital experience.
+
+**Technologies**
+
+`Flutter` `HTML` `CSS` `JavaScript`
 
 <br/>
 
+<div align="center">
+
 <a href="https://ladiabla-11718.web.app/index.html">
-<img src="https://img.shields.io/badge/Ver%20proyecto-756BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver La Diabla App" />
+<img src="https://img.shields.io/badge/OPEN_PROJECT-171A36?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
 </a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ Mi portafolio
+<div align="center">
 
-Mi espacio personal para compartir proyectos, conocimientos y mi evolución como desarrollador.
+<img src="https://img.shields.io/badge/PERSONAL_PROJECT-8B83FF?style=for-the-badge" />
 
-**Stack:** HTML · CSS · JavaScript
+### Developer Portfolio
+
+</div>
+
+My personal space to present my work, development journey and projects.
+
+**Focus**
+
+`Web Development` `UI/UX` `Programming`
 
 <br/>
 
+<div align="center">
+
 <a href="https://sebasdevs01.github.io/sebastiansanabria.com/">
-<img src="https://img.shields.io/badge/Ver%20portafolio-756BFF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver portafolio" />
+<img src="https://img.shields.io/badge/OPEN_PORTFOLIO-171A36?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" />
 </a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- GITHUB STATS -->
 <div align="center">
 
-## ✦ Mi actividad en GitHub
+## ◈ GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5A6FF&icon_color=8A83FF&text_color=CDD2E0&rank_icon=github" alt="Estadísticas de GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebasDevs01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9B5FF&icon_color=8B83FF&text_color=E6E7F0&rank_icon=github" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&theme=tokyonight&hide_border=true&background=0D1117&ring=8A83FF&fire=A5A6FF&currStreakLabel=A5A6FF" alt="Racha de contribuciones" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5A6FF&text_color=CDD2E0&langs_count=8" alt="Lenguajes más utilizados" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevs01&hide_border=true&background=0D1117&ring=8B83FF&fire=B9B5FF&currStreakLabel=B9B5FF&sideLabels=E6E7F0&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebasDevs01&theme=tokyonight" alt="Resumen de actividad" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevs01&layout=compact&hide_border=true&bg_color=0D1117&title_color=B9B5FF&text_color=E6E7F0&langs_count=8" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebasDevs01&theme=github_dark" alt="Contribution summary" />
 
 </div>
 
----
+<br/>
 
-<!-- CONTACT -->
-<div align="center">
+<table>
+<tr>
+<td width="100%" align="center">
 
-## ✦ Conectemos
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:756BFF,50:B8B2FF,100:756BFF" width="100%" />
 
-*Siempre abierto a aprender, compartir ideas y colaborar en proyectos interesantes.*
+<br/>
+
+## ✦ Let's Connect
+
+**Have an idea? Let's build something meaningful.**
+
+<br/>
 
 <a href="https://github.com/SebasDevs01">
-<img src="https://img.shields.io/badge/GitHub-15172B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-171A36?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 <a href="https://linkedin.com/in/sebasdevs">
-<img src="https://img.shields.io/badge/LinkedIn-15172B?style=for-the-badge&logo=linkedin&logoColor=8A83FF" alt="LinkedIn" />
-</a>
-<a href="https://mail.google.com/">
-<img src="https://img.shields.io/badge/Gmail-15172B?style=for-the-badge&logo=gmail&logoColor=FF8AAB" alt="Gmail" />
+<img src="https://img.shields.io/badge/LinkedIn-171A36?style=for-the-badge&logo=linkedin&logoColor=B9B5FF" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:080A18,50:25204F,100:6C63FF" width="100%" />
+<sub>Designed with curiosity. Built with code.</sub>
 
-<sub>Diseñado con curiosidad, construido con código. © SebasDev</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:080B18,50:35306C,100:827BFF" width="100%" />
 
 </div>
